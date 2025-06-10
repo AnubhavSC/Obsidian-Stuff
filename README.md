@@ -1,1 +1,3 @@
 # Obsidian-Stuff
+
+- Check the progress code , you will be ....
